@@ -1,3 +1,3 @@
-export const ucfirst = string => {
+exports.ucfirst = string => {
   return string.charAt(0).toUpperCase() + string.slice(1);
 };
