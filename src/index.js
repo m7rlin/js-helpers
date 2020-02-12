@@ -5,5 +5,5 @@ exports.lcfirst = string => {
   return string.charAt(0).toLowerCase() + string.slice(1);
 };
 exports.removeExtraSpaces = string => {
-  return string.replace(/\s\s+/g, " ");
+  return string.trim().replace(/\s\s+/g, " ");
 };
