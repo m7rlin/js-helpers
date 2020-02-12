@@ -1,0 +1,19 @@
+{
+  "name": "js-helpers",
+  "version": "1.0.0",
+  "description": "JS helper functions.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m7rlin/js-helpers.git"
+  },
+  "author": "Marcin \"m7rlin\" Stawowczyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m7rlin/js-helpers/issues"
+  },
+  "homepage": "https://github.com/m7rlin/js-helpers#readme"
+}
