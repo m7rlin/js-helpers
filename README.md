@@ -9,3 +9,9 @@ Helper functions for javascript/Node.js — helps with strings, objects, arrays.
 @return: string
 
 Capitalize first letter of the string.
+
+### `lcfirst`(string)
+
+@return: string
+
+Lowercase first letter of the string.
