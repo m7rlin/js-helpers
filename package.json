@@ -1,5 +1,5 @@
 {
-  "name": "js-helpers",
+  "name": "@m7rlin/js-helpers",
   "version": "1.0.0",
   "description": "JS helper functions.",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/m7rlin/js-helpers.git"
+    "url": "git://github.com/m7rlin/js-helpers.git"
   },
   "author": "Marcin \"m7rlin\" Stawowczyk",
   "license": "MIT",
