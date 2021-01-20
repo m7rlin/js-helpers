@@ -1,6 +1,6 @@
 {
   "name": "@m7rlin/js-helpers",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "JS helper functions.",
   "main": "src/index.js",
   "scripts": {
